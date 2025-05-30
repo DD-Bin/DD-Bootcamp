@@ -101,4 +101,3 @@ dd.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
 });
 
-git remote add origin https://github.com/DD-Bin/DD-Bootcamp.git
